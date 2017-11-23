@@ -10,75 +10,94 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class united {
-	 united() {
+	united() {
 		Scanner s = new Scanner(System.in);
 
-		boolean check=false;
+		boolean check=false,check2=true;
 		System.out.println("please enter input folder to unite and filter");
 
 		while (check==false) {
-		String input=s.next();
-		//System.out.println(input);
-		FolderDemo z=new FolderDemo(input);
-		if(z.check) {
-			check=true;
-			System.out.println("files found \n please enter requested output");
-			String output=s.next();
-		UnitedCsv(z, input, output+"\\unitedCsv.csv");
-		UnitedOrginizer mim=new UnitedOrginizer(output+"\\unitedCsv.csv");
-		}
-		else
-			System.out.println("please enter again correct input contains only csv files ");
-		}
+			String input=s.next();
+			//System.out.println(input);
+			FolderDemo z=new FolderDemo(input);
+			if(z.check) {
+				check=true;
+				System.out.println("files found \n please enter requested output");
+				String output=s.next();
+				UnitedCsv(z, input, output+"\\unitedCsv.csv");
+				UnitedOrginizer mim=new UnitedOrginizer(output+"\\unitedCsv.csv");
+				System.out.println("do u want to convert united file to .KML \n enter 1\n enter 2 to exit");
+				while(check2) {
+					int input1=s.nextInt();
+					if(input1==1) {
+						//System.out.println("output:"+output);
+						Csv2Kml mim1=new Csv2Kml(output+"\\unitedCsv.csv",output+"\\convertedKML.kml");
+						check2=false;
+					}
+					else if (input1==2) {
+						System.out.println("ok");
+						check2=false;
+					}
+					else
+						System.out.println("error input incorrect try again");
+				}//end while
+			}//end if z/check
+			else
+				System.out.println("please enter again correct input contains only csv files ");
+		}// end while
 
-	//	System.out.println(Arrays.toString(mim.getMath1()[0]));
-		//String[][] u=mim.getMath1();
-		//location zero =new location ("0","0","0",0);
-		//ArrayList<location> temp = new ArrayList<location> ();c
-		//System.out.println(temp.size());
-		//temp=mim.FilterBYlocation(u, temp);
-		//UnitedFilterdCsv(u,temp,"C:\\check\\unitedCsv1.csv");
-		
-		
-	}// end constractor
+
 	
 
 
-	public  void UnitedCsv(FolderDemo x ,String folderName,String output){
-		String brr[]=x.getFiles();
-		if(output.contains(".csv")==false)
-			output+=".csv";
-		CsvOrginaizer Semi[]=new CsvOrginaizer[brr.length];
-		/*for (int i = 0; i < brr.length; i++) {
+	//	System.out.println(Arrays.toString(mim.getMath1()[0]));
+	//String[][] u=mim.getMath1();
+	//location zero =new location ("0","0","0",0);
+	//ArrayList<location> temp = new ArrayList<location> ();c
+	//System.out.println(temp.size());
+	//temp=mim.FilterBYlocation(u, temp);
+	//UnitedFilterdCsv(u,temp,"C:\\check\\unitedCsv1.csv");
+
+
+}// end constractor
+
+
+
+public  void UnitedCsv(FolderDemo x ,String folderName,String output){
+	String brr[]=x.getFiles();
+	if(output.contains(".csv")==false)
+		output+=".csv";
+	CsvOrginaizer Semi[]=new CsvOrginaizer[brr.length];
+	/*for (int i = 0; i < brr.length; i++) {
 			Semi[i]=new CsvOrginaizer(brr[i]);
 
 		}*/
 
-		try {  
-			FileWriter fw = new FileWriter(output); 
-			//String mat[][];
+	try {  
+		FileWriter fw = new FileWriter(output); 
+		//String mat[][];
 
-			PrintWriter writer=new PrintWriter(fw);
-			writer.println("WigleWifi-1.4 , appRelease=2.25 , release=6.0.1 ");
-			writer.println("Time ,ID, SSID , AuthMode , MAC , Channel , RSSI , Latitude , Longitude , AltitudeMeters , AccuracyMeters , Type");
-			for(int i =0; i<brr.length; i++){
-				Semi[i]=new CsvOrginaizer(folderName+"\\"+brr[i]);
-				String mat[][]=Semi[i].getMath1();
-				String line="";
-				for (int j = 0; j < mat.length; j++) {
-					
-					for (int j2 = 0; j2 < mat[j].length; j2++) {
-						
-							
-						line+=mat[j][j2]+",";
-						
-					}
-					//System.out.println(line);
-					writer.println(line);
-					line="";
+		PrintWriter writer=new PrintWriter(fw);
+		writer.println("WigleWifi-1.4 , appRelease=2.25 , release=6.0.1 ");
+		writer.println("Time ,ID, SSID , AuthMode , MAC , Channel , RSSI , Latitude , Longitude , AltitudeMeters , AccuracyMeters , Type");
+		for(int i =0; i<brr.length; i++){
+			Semi[i]=new CsvOrginaizer(folderName+"\\"+brr[i]);
+			String mat[][]=Semi[i].getMath1();
+			String line="";
+			for (int j = 0; j < mat.length; j++) {
+
+				for (int j2 = 0; j2 < mat[j].length; j2++) {
+
+
+					line+=mat[j][j2]+",";
 
 				}
-/*	
+				//System.out.println(line);
+				writer.println(line);
+				line="";
+
+			}
+			/*	
 																		FileReader fr = new FileReader(folderName+"\\"+brr[i]);  
 																		BufferedReader br = new BufferedReader(fr);
 																		String str;
@@ -92,16 +111,16 @@ public class united {
 
 																		br.close();        
 																		fr.close();*/
-			}//end for
+		}//end for
 
-			writer.close();
-			fw.close();   
-			System.out.println("ALL FILES  "+Arrays.toString(brr));
-			System.out.println("Were united to path "+output);
-		}
-		catch(IOException ex) {   
-			System.out.print("Error writing file\n" + ex); 
-		}
-
+		writer.close();
+		fw.close();   
+		System.out.println("ALL FILES  "+Arrays.toString(brr));
+		System.out.println("Were united to path "+output);
 	}
+	catch(IOException ex) {   
+		System.out.print("Error writing file\n" + ex); 
+	}
+
+}
 }
