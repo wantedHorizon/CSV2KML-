@@ -12,11 +12,11 @@ System requirements
 What was needed to build this project is Java software programmed into an operating system (eg Eclipse)
 
 An app is required to save the following geographic information:
-a. Geographic location in coordinates: lat, lon, alt.
-b. Time.
-c. Device ID: A unique number for each device.
-d. A list of WiFi networks that include the network name and MAC.
-e. Signal strength of the cellular network.
+1. Geographic location in coordinates: lat, lon, alt.
+2. Time.
+3. Device ID: A unique number for each device.
+4. A list of WiFi networks that include the network name and MAC.
+5. Signal strength of the cellular network.
 
 The classes
 -------------
