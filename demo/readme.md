@@ -1,7 +1,6 @@
 # OOP-Gps&&wifi analysis
-project managers
-eliran amzalag -205484900
-Or tobol
+
+
 About the project
 -----------------------------
 The goal of this project is to develop a complex system that enables the collection of geographic information, the production of insights
@@ -57,6 +56,12 @@ Image from experiment
 
 
 
+project managers
+-----------------------------
+
+eliran amzalag -205484900 
+
+Or tobol
 
 
 
