@@ -27,12 +27,11 @@ Image from experiment
 
 
 
-project managers
+project programmers
 -----------------------------
 
 eliran amzalag -205484900 
 
-Or tubul
 
 
 
