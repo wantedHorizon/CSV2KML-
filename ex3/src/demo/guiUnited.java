@@ -28,6 +28,7 @@ public class guiUnited {
 				//System.out.println("files found \n please enter requested output");
 				String output=folder;
 				linesnum = UnitedCsv(z, input, output+"\\filters\\unitedCsv.csv");
+                                new File("output"+"\\filters").mkdir();
 				UnitedOrginizer mim=new UnitedOrginizer(output+"\\filters\\unitedCsv.csv");
 
 
