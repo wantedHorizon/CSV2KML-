@@ -6,6 +6,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Scanner;
 
 public class FolderDemo {
 	//public String files[] ={null};
@@ -61,6 +62,7 @@ public class FolderDemo {
 	
 	public FolderDemo(String path) {
 		// TODO Auto-generated constructor stub
+		path=pathCorrection(path);
 		this.Fpath=path;
 		this.files=fileNames(fileNum, path);
 
@@ -99,9 +101,9 @@ public class FolderDemo {
 		// TODO Auto-generated method stub
 		
 		FolderDemo x= new FolderDemo("c:\\knew");
-		System.out.println(x.files);
-		x.files=x.requestedfiles(x.files,1,x.Fpath);
-		System.out.println(x.files);
+		Scanner z=new Scanner(System.in);
+		String path=z.next();
+			System.out.println(x.pathCorrection(path));
 
 		
 	}
@@ -124,5 +126,25 @@ public class FolderDemo {
 		return names;
 
 	}// end list
+	
+	public String pathCorrection(String path) {
+		path=path.replace("//","*")	;
+		path=path.replace("/","*")	;	
+
+
+path=path.replace("\\\\","*")	;
+path=path.replace("\\","*")	;	
+path=path.replace("*", "\\\\");
+
+		/*
+	String[]	x=path.split("\\");
+	String out="";
+	for (int i = 0; i < x.length; i++) {
+		out+=x[i].replaceAll("\\", replacement)
+		
+	}
+		*/
+		return path;
+	}
 
 }//end class

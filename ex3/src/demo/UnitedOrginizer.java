@@ -42,6 +42,10 @@ public class UnitedOrginizer extends CsvOrginaizer {
 	
 	}// end constractor
 
+
+
+
+
 	public ArrayList<location> reduceTo10(String math[][],ArrayList<location> points){
 		location temp =new location();
 		for (int i = 0; i < points.size(); i++) {
