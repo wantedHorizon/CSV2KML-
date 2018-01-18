@@ -1,0 +1,271 @@
+My results:
+01/01/70 02:00 AM,model=SM-G950F_device=dreamlte,32.10418810381543,35.20928188136253,691.020677682242,10,Ariel_University,34:8f:27:20:89:b8,6,-43,Ariel_University,34:8f:27:20:89:b8,6,-44,Ariel_University,34:8f:27:20:89:b8,6,-47,Ariel_University,34:8f:27:20:89:b8,6,-48,Ariel_University,34:8f:27:20:89:bc,44,-48,Ariel_University,34:8f:27:20:89:b8,6,-49,Ariel_University,34:8f:27:20:89:b8,6,-51,Ariel_University,34:8f:27:20:89:bc,44,-53,Ariel_University,34:8f:27:20:89:bc,44,-53, ,34:8f:27:a0:89:b7,44,-53,***the used macs are||34:8f:27:20:89:b8||34:8f:27:20:89:b8||34:8f:27:20:89:b8||34:8f:27:20:89:b8||34:8f:27:20:89:bc||34:8f:27:20:89:b8||34:8f:27:20:89:b8||34:8f:27:20:89:bc||34:8f:27:20:89:bc||34:8f:27:a0:89:b7***
+ algo2 results
+01/01/70 02:00 AM,model=SM-G950F_device=dreamlte,32.10421269355546,35.20926845100853,692.0283430446804,10,34:8f:27:20:89:b8,Ariel_University,6,-43.0,34:8f:27:20:89:b8,Ariel_University,6,-44.0,34:8f:27:20:89:b8,Ariel_University,6,-47.0,34:8f:27:20:89:b8,Ariel_University,6,-48.0,34:8f:27:20:89:bc,Ariel_University,44,-48.0,34:8f:27:20:89:b8,Ariel_University,6,-49.0,34:8f:27:20:89:b8,Ariel_University,6,-51.0,34:8f:27:20:89:bc,Ariel_University,44,-53.0,34:8f:27:20:89:bc,Ariel_University,44,-53.0,34:8f:27:a0:89:b7, ,44,-53.0
+
+My results:
+01/01/70 02:00 AM,model=SM-G950F_device=dreamlte,32.10442297007631,35.20977938911204,691.570038145915,10,DIRECT-66-HP DeskJet 3630 series,30:e1:71:0d:e0:67,6,-56,DIRECT-66-HP DeskJet 3630 series,30:e1:71:0d:e0:67,6,-56,DIRECT-66-HP DeskJet 3630 series,30:e1:71:0d:e0:67,6,-58,DIRECT-66-HP DeskJet 3630 series,30:e1:71:0d:e0:67,6,-58,DIRECT-66-HP DeskJet 3630 series,30:e1:71:0d:e0:67,6,-59,DIRECT-66-HP DeskJet 3630 series,30:e1:71:0d:e0:67,6,-60,DIRECT-66-HP DeskJet 3630 series,30:e1:71:0d:e0:67,6,-63,Ariel_University,24:79:2a:2b:07:b8,11,-63,DIRECT-66-HP DeskJet 3630 series,30:e1:71:0d:e0:67,6,-64,Ariel_University,24:79:2a:2c:5c:18,11,-64,***the used macs are||30:e1:71:0d:e0:67||30:e1:71:0d:e0:67||30:e1:71:0d:e0:67||30:e1:71:0d:e0:67||30:e1:71:0d:e0:67||30:e1:71:0d:e0:67||30:e1:71:0d:e0:67||24:79:2a:2b:07:b8||30:e1:71:0d:e0:67||24:79:2a:2c:5c:18***
+ algo2 results
+01/01/70 02:00 AM,model=SM-G950F_device=dreamlte,32.10443454171157,35.20976986411971,691.1046390106243,10,30:e1:71:0d:e0:67,DIRECT-66-HP DeskJet 3630 series,6,-56.0,30:e1:71:0d:e0:67,DIRECT-66-HP DeskJet 3630 series,6,-56.0,30:e1:71:0d:e0:67,DIRECT-66-HP DeskJet 3630 series,6,-58.0,30:e1:71:0d:e0:67,DIRECT-66-HP DeskJet 3630 series,6,-58.0,30:e1:71:0d:e0:67,DIRECT-66-HP DeskJet 3630 series,6,-59.0,30:e1:71:0d:e0:67,DIRECT-66-HP DeskJet 3630 series,6,-60.0,30:e1:71:0d:e0:67,DIRECT-66-HP DeskJet 3630 series,6,-63.0,24:79:2a:2b:07:b8,Ariel_University,11,-63.0,30:e1:71:0d:e0:67,DIRECT-66-HP DeskJet 3630 series,6,-64.0,24:79:2a:2c:5c:18,Ariel_University,11,-64.0
+
+My results:
+01/01/70 02:00 AM,model=SM-G950F_device=dreamlte,32.1044158545188,35.209776628734275,691.3789902751197,10,DIRECT-66-HP DeskJet 3630 series,30:e1:71:0d:e0:67,6,-54,DIRECT-66-HP DeskJet 3630 series,30:e1:71:0d:e0:67,6,-54,DIRECT-66-HP DeskJet 3630 series,30:e1:71:0d:e0:67,6,-58,DIRECT-66-HP DeskJet 3630 series,30:e1:71:0d:e0:67,6,-58,DIRECT-66-HP DeskJet 3630 series,30:e1:71:0d:e0:67,6,-58,DIRECT-66-HP DeskJet 3630 series,30:e1:71:0d:e0:67,6,-59,DIRECT-66-HP DeskJet 3630 series,30:e1:71:0d:e0:67,6,-60,Ariel_University,24:79:2a:2b:07:b8,11,-61,DIRECT-66-HP DeskJet 3630 series,30:e1:71:0d:e0:67,6,-61,Ariel_University,24:79:2a:2b:07:b8,11,-61,***the used macs are||30:e1:71:0d:e0:67||30:e1:71:0d:e0:67||30:e1:71:0d:e0:67||30:e1:71:0d:e0:67||30:e1:71:0d:e0:67||30:e1:71:0d:e0:67||30:e1:71:0d:e0:67||24:79:2a:2b:07:b8||30:e1:71:0d:e0:67||24:79:2a:2b:07:b8***
+ algo2 results
+01/01/70 02:00 AM,model=SM-G950F_device=dreamlte,32.104450561707864,35.209751962987184,691.0818914967306,10,30:e1:71:0d:e0:67,DIRECT-66-HP DeskJet 3630 series,6,-54.0,30:e1:71:0d:e0:67,DIRECT-66-HP DeskJet 3630 series,6,-54.0,30:e1:71:0d:e0:67,DIRECT-66-HP DeskJet 3630 series,6,-58.0,30:e1:71:0d:e0:67,DIRECT-66-HP DeskJet 3630 series,6,-58.0,30:e1:71:0d:e0:67,DIRECT-66-HP DeskJet 3630 series,6,-58.0,30:e1:71:0d:e0:67,DIRECT-66-HP DeskJet 3630 series,6,-59.0,30:e1:71:0d:e0:67,DIRECT-66-HP DeskJet 3630 series,6,-60.0,24:79:2a:2b:07:b8,Ariel_University,11,-61.0,30:e1:71:0d:e0:67,DIRECT-66-HP DeskJet 3630 series,6,-61.0,24:79:2a:2b:07:b8,Ariel_University,11,-61.0
+
+My results:
+01/01/70 02:00 AM,model=SM-G950F_device=dreamlte,32.10455252,35.2096924,689.0000000000001,10,DIRECT-66-HP DeskJet 3630 series,30:e1:71:0d:e0:67,6,-62,DIRECT-66-HP DeskJet 3630 series,30:e1:71:0d:e0:67,6,-62,DIRECT-66-HP DeskJet 3630 series,30:e1:71:0d:e0:67,6,-63,DIRECT-66-HP DeskJet 3630 series,30:e1:71:0d:e0:67,6,-64,DIRECT-66-HP DeskJet 3630 series,30:e1:71:0d:e0:67,6,-64,DIRECT-66-HP DeskJet 3630 series,30:e1:71:0d:e0:67,6,-65,DIRECT-66-HP DeskJet 3630 series,30:e1:71:0d:e0:67,6,-65,DIRECT-66-HP DeskJet 3630 series,30:e1:71:0d:e0:67,6,-65,DIRECT-66-HP DeskJet 3630 series,30:e1:71:0d:e0:67,6,-66,DIRECT-66-HP DeskJet 3630 series,30:e1:71:0d:e0:67,6,-66,***the used macs are||30:e1:71:0d:e0:67||30:e1:71:0d:e0:67||30:e1:71:0d:e0:67||30:e1:71:0d:e0:67||30:e1:71:0d:e0:67||30:e1:71:0d:e0:67||30:e1:71:0d:e0:67||30:e1:71:0d:e0:67||30:e1:71:0d:e0:67||30:e1:71:0d:e0:67***
+ algo2 results
+01/01/70 02:00 AM,model=SM-G950F_device=dreamlte,32.10455252,35.2096924,689.0,10,30:e1:71:0d:e0:67,DIRECT-66-HP DeskJet 3630 series,6,-62.0,30:e1:71:0d:e0:67,DIRECT-66-HP DeskJet 3630 series,6,-62.0,30:e1:71:0d:e0:67,DIRECT-66-HP DeskJet 3630 series,6,-63.0,30:e1:71:0d:e0:67,DIRECT-66-HP DeskJet 3630 series,6,-64.0,30:e1:71:0d:e0:67,DIRECT-66-HP DeskJet 3630 series,6,-64.0,30:e1:71:0d:e0:67,DIRECT-66-HP DeskJet 3630 series,6,-65.0,30:e1:71:0d:e0:67,DIRECT-66-HP DeskJet 3630 series,6,-65.0,30:e1:71:0d:e0:67,DIRECT-66-HP DeskJet 3630 series,6,-65.0,30:e1:71:0d:e0:67,DIRECT-66-HP DeskJet 3630 series,6,-66.0,30:e1:71:0d:e0:67,DIRECT-66-HP DeskJet 3630 series,6,-66.0
+
+My results:
+01/01/70 02:00 AM,model=SM-G950F_device=dreamlte,32.103887331225806,35.2101167116449,701.0545168590444,10,Ariel_University,24:79:2a:2b:07:b8,11,-57,Ariel_University,24:79:2a:2b:07:bc,36,-57,Ariel_University,24:79:2a:2b:07:b8,11,-58,Ariel_University,24:79:2a:2b:07:bc,36,-58,Ariel_University,24:79:2a:2b:07:b8,11,-59,Ariel_University,24:79:2a:2b:07:bc,36,-59,DIRECT-66-HP DeskJet 3630 series,30:e1:71:0d:e0:67,6,-60,Ariel_University,24:79:2a:2b:07:b8,11,-60,Ariel_University,24:79:2a:2b:07:b8,11,-60,Ariel_University,24:79:2a:2b:07:b8,11,-61,***the used macs are||24:79:2a:2b:07:b8||24:79:2a:2b:07:bc||24:79:2a:2b:07:b8||24:79:2a:2b:07:bc||24:79:2a:2b:07:b8||24:79:2a:2b:07:bc||30:e1:71:0d:e0:67||24:79:2a:2b:07:b8||24:79:2a:2b:07:b8||24:79:2a:2b:07:b8***
+ algo2 results
+01/01/70 02:00 AM,model=SM-G950F_device=dreamlte,32.1038176550858,35.21014018162906,700.9984657076059,10,24:79:2a:2b:07:b8,Ariel_University,11,-57.0,24:79:2a:2b:07:bc,Ariel_University,36,-57.0,24:79:2a:2b:07:b8,Ariel_University,11,-58.0,24:79:2a:2b:07:bc,Ariel_University,36,-58.0,24:79:2a:2b:07:b8,Ariel_University,11,-59.0,24:79:2a:2b:07:bc,Ariel_University,36,-59.0,30:e1:71:0d:e0:67,DIRECT-66-HP DeskJet 3630 series,6,-60.0,24:79:2a:2b:07:b8,Ariel_University,11,-60.0,24:79:2a:2b:07:b8,Ariel_University,11,-60.0,24:79:2a:2b:07:b8,Ariel_University,11,-61.0
+
+My results:
+12/05/17 11:33 AM,model=SM-G950F_device=dreamlte,32.103897976794016,35.21037463095623,701.9386393855333,2,Ariel_University,24:79:2a:2c:5b:d8,1,-71, ,24:79:2a:ab:07:b7,36,-75,,This line contains only one wifi/mac the added location is of the spec network ***the used macs are||24:79:2a:2c:5b:d8***
+ algo2 results
+12/05/17 11:33 AM,model=SM-G950F_device=dreamlte,32.10422092746923,35.209916143158985,699.8626591365273,2,24:79:2a:2c:5b:d8,Ariel_University,1,-71.0,24:79:2a:ab:07:b7, ,36,-75.0
+
+My results:
+12/05/17 11:33 AM,model=SM-G950F_device=dreamlte,32.10336183777687,35.20975078092387,700.4082398392861,1,IT-MNG,1c:b9:c4:15:ed:b8,1,-92,,This line contains only one wifi/mac the added location is of the spec network ***the used macs are||1c:b9:c4:15:ed:b8***
+ algo2 results
+12/05/17 11:33 AM,model=SM-G950F_device=dreamlte,32.103360020951065,35.20974527802424,699.8244551959394,1,1c:b9:c4:15:ed:b8,IT-MNG,1,-92.0
+
+My results:
+12/05/17 11:33 AM,model=SM-G950F_device=dreamlte,32.103806557701404,35.210154433860886,700.9006238309347,3,DIRECT-8A-HP DeskJet 3630 series,3c:52:82:ef:a4:8b,6,-60,Ariel_University,24:79:2a:2b:07:bc,36,-63, ,24:79:2a:ab:07:b7,36,-67,***the used macs are||3c:52:82:ef:a4:8b||24:79:2a:2b:07:bc***
+ algo2 results
+12/05/17 11:33 AM,model=SM-G950F_device=dreamlte,32.103771741221365,35.21012651677439,701.23188884006,3,3c:52:82:ef:a4:8b,DIRECT-8A-HP DeskJet 3630 series,6,-60.0,24:79:2a:2b:07:bc,Ariel_University,36,-63.0,24:79:2a:ab:07:b7, ,36,-67.0
+
+My results:
+12/05/17 11:33 AM,model=SM-G950F_device=dreamlte,32.10408655124153,35.209979582676915,697.1113031257543,2,Ariel_University,24:79:2a:2b:07:b8,11,-64,DIRECT-66-HP DeskJet 3630 series,30:e1:71:0d:e0:67,6,-82,***the used macs are||24:79:2a:2b:07:b8||30:e1:71:0d:e0:67***
+ algo2 results
+12/05/17 11:33 AM,model=SM-G950F_device=dreamlte,32.10409958435167,35.20995633660108,698.1878306466145,2,24:79:2a:2b:07:b8,Ariel_University,11,-64.0,30:e1:71:0d:e0:67,DIRECT-66-HP DeskJet 3630 series,6,-82.0
+
+My results:
+12/05/17 11:33 AM,model=SM-G950F_device=dreamlte,not,enough,Data,2, ,24:79:2a:ab:07:b7,36,-61,Ariel Lishka,0a:27:22:f3:bb:2b,6,-89,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,not enough data,
+ algo2 results
+12/05/17 11:33 AM,model=SM-G950F_device=dreamlte,null,null,null,2,24:79:2a:ab:07:b7, ,36,-61.0,0a:27:22:f3:bb:2b,Ariel Lishka,6,-89.0
+
+My results:
+12/05/17 11:33 AM,model=SM-G950F_device=dreamlte,32.10380270114714,35.21015452322491,702.0523943814188,1,Ariel_University,24:79:2a:2b:07:b8,11,-57,,This line contains only one wifi/mac the added location is of the spec network ***the used macs are||24:79:2a:2b:07:b8***
+ algo2 results
+12/05/17 11:33 AM,model=SM-G950F_device=dreamlte,32.103802682575505,35.210155586687165,701.8501699326888,1,24:79:2a:2b:07:b8,Ariel_University,11,-57.0
+
+My results:
+12/05/17 11:33 AM,model=SM-G950F_device=dreamlte,32.10384306889388,35.210176057657876,702.88736051609,1,Ariel_University,24:79:2a:2b:07:bc,36,-58,,This line contains only one wifi/mac the added location is of the spec network ***the used macs are||24:79:2a:2b:07:bc***
+ algo2 results
+12/05/17 11:33 AM,model=SM-G950F_device=dreamlte,32.10384304573616,35.21017522096305,702.8028579266197,1,24:79:2a:2b:07:bc,Ariel_University,36,-58.0
+
+My results:
+12/05/17 11:34 AM,model=SM-G950F_device=dreamlte,32.10377344097353,35.21013482043957,699.098595091565,1,DIRECT-8A-HP DeskJet 3630 series,3c:52:82:ef:a4:8b,6,-50,,This line contains only one wifi/mac the added location is of the spec network ***the used macs are||3c:52:82:ef:a4:8b***
+ algo2 results
+12/05/17 11:34 AM,model=SM-G950F_device=dreamlte,32.10378011715219,35.21014173602757,698.9324772733183,1,3c:52:82:ef:a4:8b,DIRECT-8A-HP DeskJet 3630 series,6,-50.0
+
+My results:
+12/05/17 11:36 AM,model=SM-G950F_device=dreamlte,32.104466966368285,35.20942986183025,692.9030486088649,1, ,34:8f:27:a0:89:b7,44,-54,,This line contains only one wifi/mac the added location is of the spec network ***the used macs are||34:8f:27:a0:89:b7***
+ algo2 results
+12/05/17 11:36 AM,model=SM-G950F_device=dreamlte,32.104466966368285,35.20942986183025,692.9030486088649,1,34:8f:27:a0:89:b7, ,44,-54.0
+
+My results:
+12/05/17 11:36 AM,model=SM-G950F_device=dreamlte,32.104124670970336,35.20967533260154,695.4865133181206,10,Ariel_University,34:8f:27:20:89:b8,6,-50,Ariel_University,34:8f:27:20:89:bc,44,-53, ,34:8f:27:a0:89:b7,44,-54,Ariel_University,24:79:2a:2b:07:bc,36,-73,DIRECT-66-HP DeskJet 3630 series,30:e1:71:0d:e0:67,6,-73,Ariel_University,24:79:2a:2b:07:b8,11,-74, ,24:79:2a:ab:07:b7,36,-75,DIRECT-8A-HP DeskJet 3630 series,3c:52:82:ef:a4:8b,6,-78,Ariel_University,24:79:2a:2c:5c:18,11,-86,Ariel_University,1c:b9:c4:16:06:bc,48,-88,***the used macs are||34:8f:27:20:89:b8||34:8f:27:20:89:bc||34:8f:27:a0:89:b7||24:79:2a:2b:07:bc||30:e1:71:0d:e0:67||24:79:2a:2b:07:b8||3c:52:82:ef:a4:8b||24:79:2a:2c:5c:18||1c:b9:c4:16:06:bc***
+ algo2 results
+12/05/17 11:36 AM,model=SM-G950F_device=dreamlte,32.103808104451986,35.21014099327236,700.1153811467618,10,34:8f:27:20:89:b8,Ariel_University,6,-50.0,34:8f:27:20:89:bc,Ariel_University,44,-53.0,34:8f:27:a0:89:b7, ,44,-54.0,24:79:2a:2b:07:bc,Ariel_University,36,-73.0,30:e1:71:0d:e0:67,DIRECT-66-HP DeskJet 3630 series,6,-73.0,24:79:2a:2b:07:b8,Ariel_University,11,-74.0,24:79:2a:ab:07:b7, ,36,-75.0,3c:52:82:ef:a4:8b,DIRECT-8A-HP DeskJet 3630 series,6,-78.0,24:79:2a:2c:5c:18,Ariel_University,11,-86.0,1c:b9:c4:16:06:bc,Ariel_University,48,-88.0
+
+My results:
+12/05/17 11:36 AM,model=SM-G950F_device=dreamlte,32.10381301,35.21016707,708.0,1,Ariel_University,24:79:2a:2b:02:78,6,-89,,This line contains only one wifi/mac the added location is of the spec network ***the used macs are||24:79:2a:2b:02:78***
+ algo2 results
+12/05/17 11:36 AM,model=SM-G950F_device=dreamlte,32.10381301,35.21016707,708.0,1,24:79:2a:2b:02:78,Ariel_University,6,-89.0
+
+My results:
+12/05/17 11:36 AM,model=SM-G950F_device=dreamlte,32.10399083742543,35.209605938531155,695.5533449235527,3,Ariel_University,34:8f:27:20:89:b8,6,-44, ,24:79:2a:ac:5c:17,36,-89,Ariel_University,1c:b9:c4:16:06:b8,11,-89,***the used macs are||34:8f:27:20:89:b8||24:79:2a:ac:5c:17||1c:b9:c4:16:06:b8***
+ algo2 results
+12/05/17 11:36 AM,model=SM-G950F_device=dreamlte,32.10418840300977,35.20999181293098,696.4171755083439,3,34:8f:27:20:89:b8,Ariel_University,6,-44.0,24:79:2a:ac:5c:17, ,36,-89.0,1c:b9:c4:16:06:b8,Ariel_University,11,-89.0
+
+My results:
+12/05/17 11:37 AM,model=SM-G950F_device=dreamlte,32.103704474678025,35.20914961997676,698.4655154351861,1,Ariel_University,1c:b9:c4:16:05:38,11,-89,,This line contains only one wifi/mac the added location is of the spec network ***the used macs are||1c:b9:c4:16:05:38***
+ algo2 results
+12/05/17 11:37 AM,model=SM-G950F_device=dreamlte,32.104353623166894,35.20917046583836,696.668846338049,1,1c:b9:c4:16:05:38,Ariel_University,11,-89.0
+
+My results:
+12/05/17 11:37 AM,model=SM-G950F_device=dreamlte,32.10426048479147,35.20940038057339,690.3216243206283,3,Ariel_University,34:8f:27:20:89:b8,6,-39,iagree,b2:6c:ac:9f:fb:1f,1,-89,Guest,90:6c:ac:9f:fb:1f,1,-91,***the used macs are||34:8f:27:20:89:b8||b2:6c:ac:9f:fb:1f||90:6c:ac:9f:fb:1f***
+ algo2 results
+12/05/17 11:37 AM,model=SM-G950F_device=dreamlte,32.105014170021505,35.21004384128355,687.3944427692574,3,34:8f:27:20:89:b8,Ariel_University,6,-39.0,b2:6c:ac:9f:fb:1f,iagree,1,-89.0,90:6c:ac:9f:fb:1f,Guest,1,-91.0
+
+My results:
+12/05/17 11:37 AM,model=SM-G950F_device=dreamlte,32.10382864779715,35.21017654363843,703.0902222232166,4,Ariel_University,24:79:2a:2b:07:b8,11,-67,Ariel_University,24:79:2a:2b:07:bc,36,-68, ,24:79:2a:ab:07:b7,36,-69,Ariel_University,24:79:2a:2c:5c:18,11,-81,***the used macs are||24:79:2a:2b:07:b8||24:79:2a:2b:07:bc||24:79:2a:2c:5c:18***
+ algo2 results
+12/05/17 11:37 AM,model=SM-G950F_device=dreamlte,32.10380926485711,35.21014902243153,700.5318309817342,4,24:79:2a:2b:07:b8,Ariel_University,11,-67.0,24:79:2a:2b:07:bc,Ariel_University,36,-68.0,24:79:2a:ab:07:b7, ,36,-69.0,24:79:2a:2c:5c:18,Ariel_University,11,-81.0
+
+My results:
+12/05/17 11:41 AM,model=SM-G950F_device=dreamlte,32.10409484083098,35.21003656060233,702.9261206277884,8,DIRECT-66-HP DeskJet 3630 series,30:e1:71:0d:e0:67,6,-55,Ariel_University,24:79:2a:2c:5c:18,11,-67,Ariel_University,24:79:2a:2c:5c:1c,36,-68,Ariel_University,24:79:2a:2b:02:78,6,-72, ,24:79:2a:ac:5c:17,36,-72,paysday,b2:6c:ac:9f:f1:c5,2,-85,giftwizard,a2:6c:ac:a0:3d:eb,3,-86,Guest,90:6c:ac:a0:3d:eb,3,-89,***the used macs are||30:e1:71:0d:e0:67||24:79:2a:2c:5c:18||24:79:2a:2c:5c:1c||24:79:2a:2b:02:78||24:79:2a:ac:5c:17||b2:6c:ac:9f:f1:c5||a2:6c:ac:a0:3d:eb||90:6c:ac:a0:3d:eb***
+ algo2 results
+12/05/17 11:41 AM,model=SM-G950F_device=dreamlte,32.10432484676705,35.209908123722194,697.1117517364063,8,30:e1:71:0d:e0:67,DIRECT-66-HP DeskJet 3630 series,6,-55.0,24:79:2a:2c:5c:18,Ariel_University,11,-67.0,24:79:2a:2c:5c:1c,Ariel_University,36,-68.0,24:79:2a:2b:02:78,Ariel_University,6,-72.0,24:79:2a:ac:5c:17, ,36,-72.0,b2:6c:ac:9f:f1:c5,paysday,2,-85.0,a2:6c:ac:a0:3d:eb,giftwizard,3,-86.0,90:6c:ac:a0:3d:eb,Guest,3,-89.0
+
+My results:
+12/05/17 11:41 AM,model=SM-G950F_device=dreamlte,32.10407564223493,35.2100749954241,700.6504725357552,10,DIRECT-66-HP DeskJet 3630 series,30:e1:71:0d:e0:67,6,-61,Ariel_University,24:79:2a:2b:07:b8,11,-64,Ariel_University,24:79:2a:2c:5c:18,11,-64, ,24:79:2a:ab:07:b7,36,-66,Ariel_University,24:79:2a:2b:02:78,6,-68,Ariel_University,24:79:2a:2b:07:bc,36,-70,mati-sh1,c4:12:f5:fd:6a:74,9,-71,Ariel_University,24:79:2a:2c:5c:1c,36,-72, ,24:79:2a:ab:02:77,44,-76,Ariel_University,24:79:2a:2b:02:7c,44,-78,***the used macs are||30:e1:71:0d:e0:67||24:79:2a:2b:07:b8||24:79:2a:2c:5c:18||24:79:2a:2b:02:78||24:79:2a:2b:07:bc||c4:12:f5:fd:6a:74||24:79:2a:2c:5c:1c***
+ algo2 results
+12/05/17 11:41 AM,model=SM-G950F_device=dreamlte,32.10381200753049,35.210162848319236,706.0284555912676,10,30:e1:71:0d:e0:67,DIRECT-66-HP DeskJet 3630 series,6,-61.0,24:79:2a:2b:07:b8,Ariel_University,11,-64.0,24:79:2a:2c:5c:18,Ariel_University,11,-64.0,24:79:2a:ab:07:b7, ,36,-66.0,24:79:2a:2b:02:78,Ariel_University,6,-68.0,24:79:2a:2b:07:bc,Ariel_University,36,-70.0,c4:12:f5:fd:6a:74,mati-sh1,9,-71.0,24:79:2a:2c:5c:1c,Ariel_University,36,-72.0,24:79:2a:ab:02:77, ,44,-76.0,24:79:2a:2b:02:7c,Ariel_University,44,-78.0
+
+My results:
+12/05/17 11:41 AM,model=SM-G950F_device=dreamlte,32.10432561949593,35.20954717537854,691.5325653804563,2,DIRECT-66-HP DeskJet 3630 series,30:e1:71:0d:e0:67,6,-55,Ariel_University,1c:b9:c4:16:05:38,11,-91,***the used macs are||30:e1:71:0d:e0:67||1c:b9:c4:16:05:38***
+ algo2 results
+12/05/17 11:41 AM,model=SM-G950F_device=dreamlte,32.10435069961864,35.209129321737564,697.1835117803724,2,30:e1:71:0d:e0:67,DIRECT-66-HP DeskJet 3630 series,6,-55.0,1c:b9:c4:16:05:38,Ariel_University,11,-91.0
+
+My results:
+12/05/17 11:41 AM,model=SM-G950F_device=dreamlte,32.10461440475225,35.20962111960528,691.7513814086077,3,Guest,90:6c:ac:9f:fb:1f,1,-87,iagree,b2:6c:ac:9f:fb:1f,1,-91,Ariel_University,1c:b9:c4:15:23:5c,36,-91,***the used macs are||90:6c:ac:9f:fb:1f||b2:6c:ac:9f:fb:1f||1c:b9:c4:15:23:5c***
+ algo2 results
+12/05/17 11:41 AM,model=SM-G950F_device=dreamlte,32.104415313873254,35.2097024789665,693.2730147844597,3,90:6c:ac:9f:fb:1f,Guest,1,-87.0,b2:6c:ac:9f:fb:1f,iagree,1,-91.0,1c:b9:c4:15:23:5c,Ariel_University,36,-91.0
+
+My results:
+12/05/17 11:41 AM,model=SM-G950F_device=dreamlte,32.104105440190715,35.21020745016729,700.2123221223138,1,giftwizard,a2:6c:ac:a0:3d:eb,3,-84,,This line contains only one wifi/mac the added location is of the spec network ***the used macs are||a2:6c:ac:a0:3d:eb***
+ algo2 results
+12/05/17 11:41 AM,model=SM-G950F_device=dreamlte,32.10422974423102,35.20924972859483,705.2020180555259,1,a2:6c:ac:a0:3d:eb,giftwizard,3,-84.0
+
+My results:
+12/05/17 11:41 AM,model=SM-G950F_device=dreamlte,32.1039325698346,35.20997206544647,700.0876814111153,3, ,24:79:2a:ac:5c:17,36,-69,DIRECT-8A-HP DeskJet 3630 series,3c:52:82:ef:a4:8b,6,-73, ,1c:b9:c4:95:23:57,36,-89,***the used macs are||24:79:2a:ac:5c:17||3c:52:82:ef:a4:8b||1c:b9:c4:95:23:57***
+ algo2 results
+12/05/17 11:41 AM,model=SM-G950F_device=dreamlte,32.1038690316676,35.20975358106039,697.2851723033352,3,24:79:2a:ac:5c:17, ,36,-69.0,3c:52:82:ef:a4:8b,DIRECT-8A-HP DeskJet 3630 series,6,-73.0,1c:b9:c4:95:23:57, ,36,-89.0
+
+My results:
+12/05/17 11:41 AM,model=SM-G950F_device=dreamlte,not,enough,Data,1,island-208B90,34:8f:27:60:8b:93,8,-75,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,not enough data,
+ algo2 results
+12/05/17 11:41 AM,model=SM-G950F_device=dreamlte,null,null,null,1,34:8f:27:60:8b:93,island-208B90,8,-75.0
+
+My results:
+12/05/17 11:41 AM,model=SM-G950F_device=dreamlte,32.10415716736714,35.20985594490127,696.0984424208431,3,Ariel_University,24:79:2a:2b:07:bc,36,-65,Ariel_University,34:8f:27:20:89:b8,6,-72,Ariel_University,1c:b9:c4:15:34:b8,6,-89,***the used macs are||24:79:2a:2b:07:bc||34:8f:27:20:89:b8||1c:b9:c4:15:34:b8***
+ algo2 results
+12/05/17 11:41 AM,model=SM-G950F_device=dreamlte,32.104213901096365,35.209423818996164,691.5251802485476,3,24:79:2a:2b:07:bc,Ariel_University,36,-65.0,34:8f:27:20:89:b8,Ariel_University,6,-72.0,1c:b9:c4:15:34:b8,Ariel_University,6,-89.0
+
+My results:
+12/05/17 11:41 AM,model=SM-G950F_device=dreamlte,32.10414364124641,35.20924937040086,702.7332115520082,1,Ariel_University,1c:b9:c4:15:23:58,6,-85,,This line contains only one wifi/mac the added location is of the spec network ***the used macs are||1c:b9:c4:15:23:58***
+ algo2 results
+12/05/17 11:41 AM,model=SM-G950F_device=dreamlte,32.10426076882356,35.20926997522532,703.8995995722127,1,1c:b9:c4:15:23:58,Ariel_University,6,-85.0
+
+My results:
+12/05/17 11:41 AM,model=SM-G950F_device=dreamlte,32.10407787670169,35.21001436626674,700.5513642582497,1,Guest,90:6c:ac:a0:3d:eb,3,-76,,This line contains only one wifi/mac the added location is of the spec network ***the used macs are||90:6c:ac:a0:3d:eb***
+ algo2 results
+12/05/17 11:41 AM,model=SM-G950F_device=dreamlte,32.10369855717369,35.209179435425696,699.502297056647,1,90:6c:ac:a0:3d:eb,Guest,3,-76.0
+
+My results:
+12/05/17 11:43 AM,model=SM-G950F_device=dreamlte,32.1042043493042,35.20944796654076,695.9112486966362,2,Ariel_University,1c:b9:c4:16:05:38,11,-86,iagree,b2:6c:ac:9f:fb:1f,1,-86,***the used macs are||1c:b9:c4:16:05:38||b2:6c:ac:9f:fb:1f***
+ algo2 results
+12/05/17 11:43 AM,model=SM-G950F_device=dreamlte,32.1048205720272,35.21021207697882,699.9240231103585,2,1c:b9:c4:16:05:38,Ariel_University,11,-86.0,b2:6c:ac:9f:fb:1f,iagree,1,-86.0
+
+My results:
+12/05/17 11:43 AM,model=SM-G950F_device=dreamlte,32.104079300627305,35.20894493919268,693.2106002961864,1, ,1c:b9:c4:95:23:57,36,-89,,This line contains only one wifi/mac the added location is of the spec network ***the used macs are||1c:b9:c4:95:23:57***
+ algo2 results
+12/05/17 11:43 AM,model=SM-G950F_device=dreamlte,32.104079300627305,35.20894493919268,693.2106002961864,1,1c:b9:c4:95:23:57, ,36,-89.0
+
+My results:
+12/05/17 11:43 AM,model=SM-G950F_device=dreamlte,32.10427780841009,35.20964296102336,704.7799088613078,3,CliClap,90:6c:ac:9f:f1:c5,2,-81,Guest,90:6c:ac:a0:3d:eb,3,-81,Ariel_University,34:8f:27:20:89:bc,44,-91,***the used macs are||90:6c:ac:9f:f1:c5||90:6c:ac:a0:3d:eb||34:8f:27:20:89:bc***
+ algo2 results
+12/05/17 11:43 AM,model=SM-G950F_device=dreamlte,32.104110112601354,35.20902819263219,699.3313755671588,3,90:6c:ac:9f:f1:c5,CliClap,2,-81.0,90:6c:ac:a0:3d:eb,Guest,3,-81.0,34:8f:27:20:89:bc,Ariel_University,44,-91.0
+
+My results:
+12/05/17 11:43 AM,model=SM-G950F_device=dreamlte,32.104466966368285,35.20942986183025,692.9030486088649,1, ,34:8f:27:a0:89:b7,44,-89,,This line contains only one wifi/mac the added location is of the spec network ***the used macs are||34:8f:27:a0:89:b7***
+ algo2 results
+12/05/17 11:43 AM,model=SM-G950F_device=dreamlte,32.104466966368285,35.20942986183025,692.9030486088649,1,34:8f:27:a0:89:b7, ,44,-89.0
+
+My results:
+12/05/17 11:43 AM,model=SM-G950F_device=dreamlte,32.10399287789268,35.210029496790696,706.1302171378355,4,Ariel_University,24:79:2a:2b:02:7c,44,-74, ,24:79:2a:ab:02:77,44,-74,sinusafe,b2:6c:ac:a0:3d:eb,3,-75,giftwizard,a2:6c:ac:a0:3d:eb,3,-76,***the used macs are||b2:6c:ac:a0:3d:eb||a2:6c:ac:a0:3d:eb***
+ algo2 results
+12/05/17 11:43 AM,model=SM-G950F_device=dreamlte,32.10446889171372,35.20960459464326,706.7108663382763,4,24:79:2a:2b:02:7c,Ariel_University,44,-74.0,24:79:2a:ab:02:77, ,44,-74.0,b2:6c:ac:a0:3d:eb,sinusafe,3,-75.0,a2:6c:ac:a0:3d:eb,giftwizard,3,-76.0
+
+My results:
+12/05/17 11:43 AM,model=SM-G950F_device=dreamlte,32.104006233530185,35.21004599218365,701.6544265805364,10,DIRECT-66-HP DeskJet 3630 series,30:e1:71:0d:e0:67,6,-56,Ariel_University,24:79:2a:2b:02:78,6,-68,Ariel_University,24:79:2a:2c:5c:18,11,-69,Ariel_University,24:79:2a:2c:5c:1c,36,-70,Ariel_University,24:79:2a:2b:07:bc,36,-71, ,24:79:2a:ab:07:b7,36,-71,Ariel_University,24:79:2a:2b:07:b8,11,-72, ,24:79:2a:ac:5c:17,36,-72,DIRECT-8A-HP DeskJet 3630 series,3c:52:82:ef:a4:8b,6,-79,Guest,a2:6c:ac:9f:f1:c5,2,-80,***the used macs are||30:e1:71:0d:e0:67||24:79:2a:2b:02:78||24:79:2a:2c:5c:18||24:79:2a:2c:5c:1c||24:79:2a:2b:07:bc||24:79:2a:2b:07:b8||24:79:2a:ac:5c:17||3c:52:82:ef:a4:8b||a2:6c:ac:9f:f1:c5***
+ algo2 results
+12/05/17 11:43 AM,model=SM-G950F_device=dreamlte,32.103827740539316,35.21019289792861,703.9903086197246,10,30:e1:71:0d:e0:67,DIRECT-66-HP DeskJet 3630 series,6,-56.0,24:79:2a:2b:02:78,Ariel_University,6,-68.0,24:79:2a:2c:5c:18,Ariel_University,11,-69.0,24:79:2a:2c:5c:1c,Ariel_University,36,-70.0,24:79:2a:2b:07:bc,Ariel_University,36,-71.0,24:79:2a:ab:07:b7, ,36,-71.0,24:79:2a:2b:07:b8,Ariel_University,11,-72.0,24:79:2a:ac:5c:17, ,36,-72.0,3c:52:82:ef:a4:8b,DIRECT-8A-HP DeskJet 3630 series,6,-79.0,a2:6c:ac:9f:f1:c5,Guest,2,-80.0
+
+My results:
+12/05/17 11:43 AM,model=SM-G950F_device=dreamlte,32.10380270114714,35.21015452322491,702.0523943814188,1,Ariel_University,24:79:2a:2b:07:b8,11,-65,,This line contains only one wifi/mac the added location is of the spec network ***the used macs are||24:79:2a:2b:07:b8***
+ algo2 results
+12/05/17 11:43 AM,model=SM-G950F_device=dreamlte,32.10380271716439,35.210155255930204,701.9358724475516,1,24:79:2a:2b:07:b8,Ariel_University,11,-65.0
+
+My results:
+12/05/17 11:43 AM,model=SM-G950F_device=dreamlte,32.10403551677238,35.20920090992422,689.9906884970248,1,Ariel_University,34:8f:27:20:89:b8,6,-77,,This line contains only one wifi/mac the added location is of the spec network ***the used macs are||34:8f:27:20:89:b8***
+ algo2 results
+12/05/17 11:43 AM,model=SM-G950F_device=dreamlte,32.1040473755589,35.20916255462591,691.4554829114995,1,34:8f:27:20:89:b8,Ariel_University,6,-77.0
+
+My results:
+12/05/17 11:43 AM,model=SM-G950F_device=dreamlte,32.10396221890057,35.20983476505454,704.0513288103672,2,Ariel_University,24:79:2a:2c:5c:18,11,-64,Ariel_University,1c:b9:c4:15:23:58,6,-80,***the used macs are||24:79:2a:2c:5c:18||1c:b9:c4:15:23:58***
+ algo2 results
+12/05/17 11:43 AM,model=SM-G950F_device=dreamlte,32.103954167254365,35.209398554921435,695.1171009186083,2,24:79:2a:2c:5c:18,Ariel_University,11,-64.0,1c:b9:c4:15:23:58,Ariel_University,6,-80.0
+
+My results:
+12/05/17 11:43 AM,model=SM-G950F_device=dreamlte,32.104415591293034,35.21001171463927,697.5444398045908,5,Ariel_University,24:79:2a:2b:07:bc,36,-66,island-208B90,34:8f:27:60:8b:93,8,-85,mati-sh1,c4:12:f5:fd:6a:74,9,-87,iagree,b2:6c:ac:9f:fb:1f,1,-87,Neuropplied,a2:6c:ac:9f:fb:1f,1,-90,***the used macs are||24:79:2a:2b:07:bc||c4:12:f5:fd:6a:74||b2:6c:ac:9f:fb:1f||a2:6c:ac:9f:fb:1f***
+ algo2 results
+12/05/17 11:43 AM,model=SM-G950F_device=dreamlte,32.10492098329679,35.21010092244693,689.3647698046783,5,24:79:2a:2b:07:bc,Ariel_University,36,-66.0,34:8f:27:60:8b:93,island-208B90,8,-85.0,c4:12:f5:fd:6a:74,mati-sh1,9,-87.0,b2:6c:ac:9f:fb:1f,iagree,1,-87.0,a2:6c:ac:9f:fb:1f,Neuropplied,1,-90.0
+
+My results:
+12/05/17 11:43 AM,model=SM-G950F_device=dreamlte,32.1044319276435,35.20957257596856,707.9678926886843,2,paysday,b2:6c:ac:9f:f1:c5,2,-77,shapedo,c2:6c:ac:9f:fb:1f,1,-90,***the used macs are||b2:6c:ac:9f:f1:c5||c2:6c:ac:9f:fb:1f***
+ algo2 results
+12/05/17 11:43 AM,model=SM-G950F_device=dreamlte,32.10427575788038,35.209407365945495,703.040242872286,2,b2:6c:ac:9f:f1:c5,paysday,2,-77.0,c2:6c:ac:9f:fb:1f,shapedo,1,-90.0
+
+My results:
+12/05/17 11:43 AM,model=SM-G950F_device=dreamlte,not,enough,Data,1, ,24:79:2a:ab:07:b7,36,-66,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,not enough data,
+ algo2 results
+12/05/17 11:43 AM,model=SM-G950F_device=dreamlte,null,null,null,1,24:79:2a:ab:07:b7, ,36,-66.0
+
+My results:
+12/05/17 11:43 AM,model=SM-G950F_device=dreamlte,32.10447681067298,35.209669769320556,690.2290859711214,1,shapedo,c2:6c:ac:9f:fb:1f,1,-85,,This line contains only one wifi/mac the added location is of the spec network ***the used macs are||c2:6c:ac:9f:fb:1f***
+ algo2 results
+12/05/17 11:43 AM,model=SM-G950F_device=dreamlte,32.1044020856926,35.209603747067945,690.3590826609188,1,c2:6c:ac:9f:fb:1f,shapedo,1,-85.0
+
+My results:
+12/05/17 11:44 AM,model=SM-G950F_device=dreamlte,32.105021404119775,35.2101247326889,688.9500750061097,1,Guest,90:6c:ac:9f:fb:1f,1,-85,,This line contains only one wifi/mac the added location is of the spec network ***the used macs are||90:6c:ac:9f:fb:1f***
+ algo2 results
+12/05/17 11:44 AM,model=SM-G950F_device=dreamlte,32.10521130041299,35.20996017893301,689.062851438557,1,90:6c:ac:9f:fb:1f,Guest,1,-85.0
+
+My results:
+12/05/17 11:44 AM,model=SM-G950F_device=dreamlte,32.10382221241156,35.21016493163384,702.4559652110204,2,Ariel_University,24:79:2a:2b:07:b8,11,-59,Ariel_University,24:79:2a:2b:07:bc,36,-61,***the used macs are||24:79:2a:2b:07:b8||24:79:2a:2b:07:bc***
+ algo2 results
+12/05/17 11:44 AM,model=SM-G950F_device=dreamlte,32.103814788244115,35.210150131485506,704.1995384002568,2,24:79:2a:2b:07:b8,Ariel_University,11,-59.0,24:79:2a:2b:07:bc,Ariel_University,36,-61.0
+
+My results:
+12/05/17 11:44 AM,model=SM-G950F_device=dreamlte,32.103986543611605,35.21044402294605,705.1048860032017,1, ,24:79:2a:ac:5c:17,36,-67,,This line contains only one wifi/mac the added location is of the spec network ***the used macs are||24:79:2a:ac:5c:17***
+ algo2 results
+12/05/17 11:44 AM,model=SM-G950F_device=dreamlte,32.103986543611605,35.21044402294606,705.1048860032018,1,24:79:2a:ac:5c:17, ,36,-67.0
+
+My results:
+12/05/17 11:45 AM,model=SM-G950F_device=dreamlte,32.10402311031104,35.21008363055842,701.3537791073417,10,DIRECT-66-HP DeskJet 3630 series,30:e1:71:0d:e0:67,6,-63,Ariel_University,24:79:2a:2c:5c:1c,36,-67, ,24:79:2a:ac:5c:17,36,-67,DIRECT-66-HP DeskJet 3630 series,30:e1:71:0d:e0:67,6,-68,Ariel_University,24:79:2a:2b:07:bc,36,-70,Ariel_University,24:79:2a:2b:02:78,6,-70, ,24:79:2a:ab:07:b7,36,-71,Ariel_University,24:79:2a:2b:07:b8,11,-72,Ariel_University,24:79:2a:2c:5c:18,11,-74,Ariel_University,24:79:2a:2b:02:78,6,-75,***the used macs are||30:e1:71:0d:e0:67||24:79:2a:2c:5c:1c||24:79:2a:ac:5c:17||30:e1:71:0d:e0:67||24:79:2a:2b:07:bc||24:79:2a:2b:02:78||24:79:2a:2b:07:b8||24:79:2a:2c:5c:18||24:79:2a:2b:02:78***
+ algo2 results
+12/05/17 11:45 AM,model=SM-G950F_device=dreamlte,32.1038233473887,35.21017982551112,706.2313135347745,10,30:e1:71:0d:e0:67,DIRECT-66-HP DeskJet 3630 series,6,-63.0,24:79:2a:2c:5c:1c,Ariel_University,36,-67.0,24:79:2a:ac:5c:17, ,36,-67.0,30:e1:71:0d:e0:67,DIRECT-66-HP DeskJet 3630 series,6,-68.0,24:79:2a:2b:07:bc,Ariel_University,36,-70.0,24:79:2a:2b:02:78,Ariel_University,6,-70.0,24:79:2a:ab:07:b7, ,36,-71.0,24:79:2a:2b:07:b8,Ariel_University,11,-72.0,24:79:2a:2c:5c:18,Ariel_University,11,-74.0,24:79:2a:2b:02:78,Ariel_University,6,-75.0
+
+My results:
+12/05/17 11:47 AM,model=SM-G950F_device=dreamlte,32.103790532091104,35.20989730786795,703.3999733897222,10, ,24:79:2a:ab:07:b7,36,-67,Ariel_University,24:79:2a:2b:07:bc,36,-68,Ariel_University,1c:b9:c4:16:1d:78,1,-69,Ariel_University,24:79:2a:2b:07:b8,11,-71,Ariel_University,1c:b9:c4:16:1d:7c,44,-71,Ariel_University,1c:b9:c4:16:06:bc,48,-73,Ariel_University,1c:b9:c4:16:06:b8,11,-75,DIRECT-8A-HP DeskJet 3630 series,3c:52:82:ef:a4:8b,6,-77,Ariel_University,34:8f:27:20:89:b8,6,-78,Ariel_University,24:79:2a:2b:02:78,6,-79,***the used macs are||24:79:2a:2b:07:bc||1c:b9:c4:16:1d:78||24:79:2a:2b:07:b8||1c:b9:c4:16:1d:7c||1c:b9:c4:16:06:bc||1c:b9:c4:16:06:b8||3c:52:82:ef:a4:8b||34:8f:27:20:89:b8||24:79:2a:2b:02:78***
+ algo2 results
+12/05/17 11:47 AM,model=SM-G950F_device=dreamlte,32.10388573330887,35.210021369165304,699.3579106770109,10,24:79:2a:ab:07:b7, ,36,-67.0,24:79:2a:2b:07:bc,Ariel_University,36,-68.0,1c:b9:c4:16:1d:78,Ariel_University,1,-69.0,24:79:2a:2b:07:b8,Ariel_University,11,-71.0,1c:b9:c4:16:1d:7c,Ariel_University,44,-71.0,1c:b9:c4:16:06:bc,Ariel_University,48,-73.0,1c:b9:c4:16:06:b8,Ariel_University,11,-75.0,3c:52:82:ef:a4:8b,DIRECT-8A-HP DeskJet 3630 series,6,-77.0,34:8f:27:20:89:b8,Ariel_University,6,-78.0,24:79:2a:2b:02:78,Ariel_University,6,-79.0
+
+My results:
+12/05/17 11:47 AM,model=SM-G950F_device=dreamlte,32.103844912367414,35.210252040441915,702.0019960126151,4,Ariel_University,24:79:2a:2b:07:b8,11,-66,Ariel_University,24:79:2a:2c:5b:d8,1,-74, ,1c:b9:c4:96:ed:47,36,-86,Ariel_University,1c:b9:c4:16:ed:4c,36,-86,***the used macs are||24:79:2a:2b:07:b8||24:79:2a:2c:5b:d8***
+ algo2 results
+12/05/17 11:47 AM,model=SM-G950F_device=dreamlte,32.104224809829624,35.209912007232845,699.7406864453325,4,24:79:2a:2b:07:b8,Ariel_University,11,-66.0,24:79:2a:2c:5b:d8,Ariel_University,1,-74.0,1c:b9:c4:96:ed:47, ,36,-86.0,1c:b9:c4:16:ed:4c,Ariel_University,36,-86.0
+
+My results:
+12/05/17 11:47 AM,model=SM-G950F_device=dreamlte,32.10394098298741,35.210084497175245,700.9361786800594,2,DIRECT-8A-HP DeskJet 3630 series,3c:52:82:ef:a4:8b,6,-72,Ariel_University,24:79:2a:2c:5b:dc,36,-79,***the used macs are||3c:52:82:ef:a4:8b||24:79:2a:2c:5b:dc***
+ algo2 results
+12/05/17 11:47 AM,model=SM-G950F_device=dreamlte,32.10403995125603,35.20996754422264,702.9590418552099,2,3c:52:82:ef:a4:8b,DIRECT-8A-HP DeskJet 3630 series,6,-72.0,24:79:2a:2c:5b:dc,Ariel_University,36,-79.0
+
+My results:
+12/05/17 11:47 AM,model=SM-G950F_device=dreamlte,32.10411080606329,35.20941320666703,713.2194297574767,2, ,24:79:2a:ac:5b:d7,36,-81, ,1c:b9:c4:95:fd:47,36,-87,***the used macs are||24:79:2a:ac:5b:d7||1c:b9:c4:95:fd:47***
+ algo2 results
+12/05/17 11:47 AM,model=SM-G950F_device=dreamlte,32.10384743262079,35.20954601913066,707.1937609679802,2,24:79:2a:ac:5b:d7, ,36,-81.0,1c:b9:c4:95:fd:47, ,36,-87.0
+
+My results:
+12/05/17 11:47 AM,model=SM-G950F_device=dreamlte,32.10355711882571,35.21004741663059,704.2077211307575,5,Ariel_University,1c:b9:c4:16:06:bc,48,-65,Ariel_University,1c:b9:c4:16:06:b8,11,-66, ,1c:b9:c4:96:06:b7,48,-66,IT-MNG,1c:b9:c4:15:ed:b8,1,-87,Ariel_University,1c:b9:c4:15:1c:b8,1,-90,***the used macs are||1c:b9:c4:16:06:bc||1c:b9:c4:16:06:b8||1c:b9:c4:96:06:b7||1c:b9:c4:15:ed:b8||1c:b9:c4:15:1c:b8***
+ algo2 results
+12/05/17 11:47 AM,model=SM-G950F_device=dreamlte,32.10364557435815,35.209943345669885,700.5103348122924,5,1c:b9:c4:16:06:bc,Ariel_University,48,-65.0,1c:b9:c4:16:06:b8,Ariel_University,11,-66.0,1c:b9:c4:96:06:b7, ,48,-66.0,1c:b9:c4:15:ed:b8,IT-MNG,1,-87.0,1c:b9:c4:15:1c:b8,Ariel_University,1,-90.0
+
+My results:
+12/05/17 11:47 AM,model=SM-G950F_device=dreamlte,32.103569963628104,35.209797182317345,703.3093245300729,7,Ariel_University,1c:b9:c4:16:ed:48,6,-73,DIRECT-51-HP DeskJet 3630 series,3c:52:82:ef:d4:52,6,-75,Ariel_University,1c:b9:c4:16:ed:4c,36,-77,DIRECT-13-HP DeskJet 3630 series,a0:8c:fd:0a:24:56,6,-87,Ariel_University,1c:b9:c4:15:1c:bc,36,-90,IT-MNG,1c:b9:c4:15:ed:bc,48,-91, ,1c:b9:c4:95:ed:b7,48,-91,***the used macs are||1c:b9:c4:16:ed:48||3c:52:82:ef:d4:52||a0:8c:fd:0a:24:56||1c:b9:c4:15:1c:bc||1c:b9:c4:15:ed:bc***
+ algo2 results
+12/05/17 11:47 AM,model=SM-G950F_device=dreamlte,32.10387898737287,35.20958107035049,703.398760610702,7,1c:b9:c4:16:ed:48,Ariel_University,6,-73.0,3c:52:82:ef:d4:52,DIRECT-51-HP DeskJet 3630 series,6,-75.0,1c:b9:c4:16:ed:4c,Ariel_University,36,-77.0,a0:8c:fd:0a:24:56,DIRECT-13-HP DeskJet 3630 series,6,-87.0,1c:b9:c4:15:1c:bc,Ariel_University,36,-90.0,1c:b9:c4:15:ed:bc,IT-MNG,48,-91.0,1c:b9:c4:95:ed:b7, ,48,-91.0
+
+My results:
+12/05/17 11:48 AM,model=SM-G950F_device=dreamlte,32.10374723866869,35.21023198469521,705.0540185189194,3,Ariel_University,1c:b9:c4:16:06:b8,11,-61, ,1c:b9:c4:96:e5:a7,36,-89,Ariel_University,1c:b9:c4:16:e5:ac,36,-90,***the used macs are||1c:b9:c4:16:06:b8||1c:b9:c4:16:e5:ac***
+ algo2 results
+12/05/17 11:48 AM,model=SM-G950F_device=dreamlte,32.10373860096788,35.21002277827387,706.8289176622329,3,1c:b9:c4:16:06:b8,Ariel_University,11,-61.0,1c:b9:c4:96:e5:a7, ,36,-89.0,1c:b9:c4:16:e5:ac,Ariel_University,36,-90.0
+
+
