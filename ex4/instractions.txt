@@ -1,0 +1,11 @@
+in ex4 we added gradle support 
+plz notice that this is cmd running gradle and it does not depends on eclipse 
+to run the gui plz write "gradle runGui " or use the wrapper with "gradlew runGui"
+
+
+all the other tasks works fine use "gradle/w tasks -all " to view 
+
+to create javadoc type "gradle/w javadoc "
+
+
+to create jar type "gradle jar " its will appear at folder "bulid/libs "
