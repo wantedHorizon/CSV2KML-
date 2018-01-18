@@ -7,6 +7,7 @@ From this information and display the information in graphical tools.
 
 This project consists of Java code classes.
 
+* Javadoc is at path docs
 Gradle suppurt
 ----------------------------
 this projects support Gradle 
