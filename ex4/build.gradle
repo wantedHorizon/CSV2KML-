@@ -13,7 +13,9 @@ task zipBulid(type: Zip) {
     from 'build'
 }
 
-
+wrapper {
+    gradleVersion = '4.4.1'
+}
 task srcZip(type: Zip) {
     classifier = 'src'
     from projectDir
