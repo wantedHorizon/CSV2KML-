@@ -1,7 +1,8 @@
 in ex4 we added gradle support 
 plz notice that this is cmd running gradle and it does not depends on eclipse 
 to run the gui plz write "gradle runGui " or use the wrapper with "gradlew runGui"
-
+currently the sql pull takes comb file lines and convert it to UnitedCsv file and then do the tasks 
+**plz enter workspace before pressing import**
 
 all the other tasks works fine use "gradle/w tasks -all " to view 
 
