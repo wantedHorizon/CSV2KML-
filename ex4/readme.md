@@ -1,6 +1,6 @@
 # OOP-Gps&&wifi analysis
 
-About the project -task completed  ex4 
+About the project -task ex4 completed   
 -----------------------------
 The goal of this project is to develop a complex system that enables the collection of geographic information, the production of insights
 From this information and display the information in graphical tools.
