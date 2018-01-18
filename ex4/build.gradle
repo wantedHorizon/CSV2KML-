@@ -1,0 +1,175 @@
+
+
+
+apply plugin: 'java'
+apply plugin: 'application'
+apply plugin: 'eclipse' 
+
+task zipBulid(type: Zip) {
+ description "zipps the build folder to the root folder"
+    group "OOP projects options"
+    baseName = 'Bulid'
+    destinationDir = project.rootDir
+    from 'build'
+}
+
+
+task srcZip(type: Zip) {
+    classifier = 'src'
+    from projectDir
+    include sourceSets*.allSource.srcDirs*.collect { relativePath(it) }.flatten()
+    include 'LICENCE', 'README', 'NOTICE', 'gradlew*'
+}
+assemble.dependsOn(srcZip)
+
+Task taskSourceZip = project.task("makeSourceZip", type:Zip){
+        baseName = "sourceZip"
+        from (project.rootDir){
+            exclude ('*/*.iml')
+            exclude 'sourceZip.zip'
+        }
+        destinationDir project.rootDir
+    }
+
+task zipSrc(type: Zip) {
+ description "zipps the src folder to the root folder"
+    group "OOP projects options"
+    baseName = 'src'
+    destinationDir = project.rootDir
+    from 'src'
+}
+task deleteBuild(type: Delete) {
+		 description "delete the build folder"
+    group "OOP projects options"
+    delete 'build'
+}
+
+javadoc {
+    source = sourceSets.main.allJava
+    classpath = configurations.compile
+}
+
+version = '1.0'
+//sourceCompatibility = 1.7
+//targetCompatibility = 1.7
+
+//create a single Jar with all dependencies
+task fatJar(type: Jar) {
+	manifest {
+        attributes 'Implementation-Title': 'Gradle Jar File Example',
+        	'Implementation-Version': version,
+			'Main-Class': 'demo.guiapp'    }
+    baseName = project.name + '-all'
+    from { configurations.compile.collect { it.isDirectory() ? it : zipTree(it) } }
+    with jar
+}
+
+//Get dependencies from Maven central repository
+repositories {
+    mavenCentral()
+}
+
+//Project dependencies
+dependencies {
+	compile 'ch.qos.logback:logback-classic:1.1.2'
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mainClassName = 'demo.guiapp'
+repositories {
+    mavenCentral()
+    mavenLocal()
+    jcenter()
+}
+
+/*
+sourceSets {
+    main {
+        java {
+            srcDir 'src' // 3. Add 'java' directory as a source directory
+        }
+    }
+}
+*/
+jar {
+  manifest {
+    attributes(
+      'Class-Path': configurations.compile.collect { it.getName() }.join(' '),
+      'Main-Class': 'demo.guiapp'
+	 // 'implementation' : " group: 'mysql', name: 'mysql-connector-java', version: '5.1.45' "
+    )
+  }
+}
+
+
+
+
+
+dependencies {     implementation  group: 'mysql', name: 'mysql-connector-java', version: '5.1.45'   }
+
+dependencies {
+   //testCompile 'demo'
+    testCompile 'junit:junit:4.+'
+}
+task runGui(type: JavaExec) {
+ description "run the gui app"
+    group "OOP projects options"
+    main = "demo.guiapp"
+    classpath = sourceSets.main.runtimeClasspath
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+buildscript {
+    repositories {
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:1.3.0'
+
+        // NOTE: Do not place your application dependencies here; they belong
+        // in the individual module build.gradle files
+    }
+}
+
+allprojects {
+    repositories {
+        jcenter()
+    }
+}
+*/
