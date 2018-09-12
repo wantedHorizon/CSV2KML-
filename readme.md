@@ -1,4 +1,4 @@
-# OOP-Gps&&wifi analysis
+# OOP-Gps & wifi analysis
 
 
 About the project
